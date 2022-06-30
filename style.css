@@ -1,0 +1,53 @@
+body {
+    background-color: #efeee7;
+    font-family: Georgia;
+    margin: 0;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 0;
+}
+
+header {
+	background-color: #000000;
+}
+
+h1 {
+	color: white;
+	font-size: 28px;
+	text-align: center;
+  padding: 20px;
+}
+
+h2 {
+	font-size: 24px;
+}
+
+.contain {
+	width: 1024px;
+	margin: 0 auto;
+}
+
+#img {
+  float: left;
+	width: 200px;
+  margin-right: 20px;
+}
+
+#main {
+  float: left;
+	width: 70%;
+	line-height: 150%;
+}
+
+#links{
+  float: left;
+	width: 70%;
+	line-height: 150%;
+  float: right;
+}
+
+#contact {
+  float: left;
+	width: 30%;
+	line-height: 150%;
+}
