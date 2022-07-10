@@ -1,5 +1,6 @@
 body {
     background-color: #efeee7;
+    font-size: 22px;
     font-family: Georgia;
     margin: 0;
     margin-left: 50px;
@@ -13,13 +14,13 @@ header {
 
 h1 {
 	color: white;
-	font-size: 28px;
+	font-size: 36px;
 	text-align: center;
   padding: 20px;
 }
 
 h2 {
-	font-size: 24px;
+	font-size: 32px;
 }
 
 .contain {
@@ -29,25 +30,23 @@ h2 {
 
 #img {
   float: left;
-	width: 200px;
+	width: 250px;
   margin-right: 20px;
+  margin-bottom: 25px;
 }
 
 #main {
   float: left;
-	width: 70%;
+	width: 80%;
 	line-height: 150%;
 }
 
 #links{
-  float: left;
 	width: 70%;
 	line-height: 150%;
-  float: right;
 }
 
 #contact {
-  float: left;
-	width: 30%;
+	width: 70%;
 	line-height: 150%;
 }
